@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Liberal Arts and Science, University College Utrecht, 2016 - magna cum laude
+* M.Sc. in Cognitive Neuroscience, Radboud University, 2018 - cum laude
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2018 - Aug 2019: Research Assistant
+  * Radboud University
+  * Duties included: xxx
+  * Supervisor: dr. Judith Holler
 
-* Fall 2015: Research Assistant
-  * Github University
+* Sep 2019 - now: PhD Assistant
+  * Radboud University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisors: dr. Linda Drijvers & dr. Judith Holler
   
 Skills
 ======
