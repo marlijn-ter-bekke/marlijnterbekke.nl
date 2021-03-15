@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Liberal Arts and Science, University College Utrecht, 2016 - magna cum laude
+* B.Sc. in Liberal Arts and Sciences, University College Utrecht, 2016 - magna cum laude
 * M.Sc. in Cognitive Neuroscience, Radboud University, 2018 - cum laude
 
 Work experience
 ======
-* Sep 2018 - Aug 2019: Research Assistant
+* Sep 2018 - Aug 2019: Research assistant
   * Radboud University
-  * Duties included: xxx
+  * Duties included: XXX
   * Supervisor: dr. Judith Holler
 
-* Sep 2019 - now: PhD Assistant
+* Sep 2019 - now: PhD student
   * Radboud University
-  * Duties included: Merging pull requests
+  * Duties included: XXX
   * Supervisors: dr. Linda Drijvers & dr. Judith Holler
   
 Skills
