@@ -5,7 +5,7 @@ title: "Blogs"
 author_profile: true
 ---
 
-Since September 2020, I have been writing blogs for Donders Wonders (https://blog.donders.ru.nl/). Donders Wonders is the official blog of the Donders Institute for Brain, Cognition and Behaviour in Nijmegen, the Netherlands. The goal of the blog is to communicate science to a wide laymen audience. In 2020, the blog won the [NWO communication award](https://blog.donders.ru.nl/?p=12858&lang=en).
+Since September 2020, I have been writing blogs for [Donders Wonders](https://blog.donders.ru.nl/). Donders Wonders is the official blog of the Donders Institute for Brain, Cognition and Behaviour in Nijmegen, the Netherlands. The goal of the blog is to communicate science to a wide laymen audience. In 2020, the blog won the [NWO communication award](https://blog.donders.ru.nl/?p=12858&lang=en).
 
 I often write about language and communication. For example, I've written blogs on the role of sniffing during conversation and about the many functions that questions can have. I've also written about how second language pronunciation is affected by drinking alcohol, and about whether masculine generic terms (using a form such as *he* to describe people of whatever gender) are interpreted as if they refer to men. 
 
