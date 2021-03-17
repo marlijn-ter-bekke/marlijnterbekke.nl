@@ -11,4 +11,4 @@ I often write about language and communication. For example, I've written blogs 
 
 However, I also really enjoy writing about topics that are less directly related to my field of expertise, such as whether yawning cools our brain, how you can critically read graphs, or about the science of science communication. Regardless of the topic, I always do my utmost best to make sure my blogs accurately reflect the underlying research, and to prevent making bold claims. I think an essential part of science communication is also to explain how science works, and what we can/cannot conclude from specific studies. I think this is just as important as sharing interesting findings. 
 
-All my blogs can be be read [here in Dutch](https://blog.donders.ru.nl/?author_name=marlijn-ter-bekke) and [here in English](https://blog.donders.ru.nl/?author_name=marlijn-ter-bekke&lang=en). 
+All my blogs can be read [here in Dutch](https://blog.donders.ru.nl/?author_name=marlijn-ter-bekke) and [here in English](https://blog.donders.ru.nl/?author_name=marlijn-ter-bekke&lang=en). 
