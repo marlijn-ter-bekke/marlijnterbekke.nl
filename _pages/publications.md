@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Frey, V., De Mulder, H.N.M., **ter Bekke, M.**, Struiksma, M.E., van Berkum, J.J.A., & Buskens, V. (in press). Do self-talk phrases affect behavior in ultimatum games? Mind & Society. [[link](https://link.springer.com/article/10.1007/s11299-022-00286-8)] 
+Frey, V., De Mulder, H.N.M., **ter Bekke, M.**, Struiksma, M.E., van Berkum, J.J.A., & Buskens, V. (2022). Do self-talk phrases affect behavior in ultimatum games? Mind & Society. [[link](https://link.springer.com/article/10.1007/s11299-022-00286-8)] 
 
 **ter Bekke, M.**, Özyürek, A., & Ünal, E. (in press). Speaking but not gesturing predicts event memory: A cross-linguistic comparison. Language & Cognition.
 
