@@ -11,4 +11,4 @@ During my bachelor’s at [University College Utrecht](https://www.uu.nl/en/orga
 
 Since September 2019, I am a PhD student within the [Communication in Social Interaction group](https://cosilab.org) at the Donders Centre for Cognition under supervision of [dr. Linda Drijvers](https://lindadrijvers.nl) and [dr. Judith Holler](https://www.mpi.nl/people/holler-judith). I am passionate about studying how people use language in their daily lives to communicate with others. This mostly happens in face-to-face conversations, in which people communicate with speech, but also with bodily signals such as hand gestures. How do these visual signals help us to understand each other better during conversation? In my project I investigate how hand gestures affect language prediction as well as other aspects of language processing. 
 
-I use different methods in my research, including electroencephalography, corpus analysis, pupillometry, virtual reality and behavioural experiments. 
+I use different methods in my research, including electroencephalography, corpus analysis, virtual reality and behavioural experiments. 
