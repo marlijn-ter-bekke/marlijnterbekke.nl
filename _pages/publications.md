@@ -4,10 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**ter Bekke, M.**, Drijvers, L., & Holler, J. (2024). Hand gestures have predictive potential during conversation: An investigation of the timing of gestures in relation to speech. *Cognitive Science, 48*(1), e13407. [[link to Open Access paper](https://doi.org/10.1111/cogs.13407)] 
 
-**ter Bekke, M.**, Özyürek, A., & Ünal, E. (2022). Speaking but not gesturing predicts event memory: A cross-linguistic comparison. Language & Cognition. [[link to Open Access paper](https://doi.org/10.1017/langcog.2022.3)]
+**ter Bekke, M.**, Özyürek, A., & Ünal, E. (2022). Speaking but not gesturing predicts event memory: A cross-linguistic comparison. *Language and Cognition, 14*(3), 362-384. [[link to Open Access paper](https://doi.org/10.1017/langcog.2022.3)]
 
-Frey, V., De Mulder, H.N.M., **ter Bekke, M.**, Struiksma, M.E., van Berkum, J.J.A., & Buskens, V. (2022). Do self-talk phrases affect behavior in ultimatum games? Mind & Society. [[link to Open Access paper](https://link.springer.com/article/10.1007/s11299-022-00286-8)] 
+Frey, V., De Mulder, H.N.M., **ter Bekke, M.**, Struiksma, M.E., van Berkum, J.J.A., & Buskens, V. (2022). Do self-talk phrases affect behavior in ultimatum games? *Mind & Society, 21*, 89-119. [[link to Open Access paper](https://link.springer.com/article/10.1007/s11299-022-00286-8)] 
 
 **ter Bekke, M.**, Drijvers, L., & Holler, J. (2020). The predictive potential of hand gestures during conversation: An investigation of the timing of gestures in relation to speech. In *Proceedings of the 7th GESPIN - Gesture and Speech in Interaction Conference*. Stockholm: KTH Royal Institute of Technology. [[link to PDF](https://pure.mpg.de/rest/items/item_3251942_1/component/file_3251943/content)] 
 
