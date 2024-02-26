@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**ter Bekke, M.**, Drijvers, L., & Holler, J. (2024). Gestures speed up responses to questions. *Language, Cognition and Neuroscience*, e13407. [[link to Open Access paper]([https://doi.org/10.1080/23273798.2024.2314021])] 
+
 **ter Bekke, M.**, Drijvers, L., & Holler, J. (2024). Hand gestures have predictive potential during conversation: An investigation of the timing of gestures in relation to speech. *Cognitive Science, 48*(1), e13407. [[link to Open Access paper](https://doi.org/10.1111/cogs.13407)] 
 
 **ter Bekke, M.**, Özyürek, A., & Ünal, E. (2022). Speaking but not gesturing predicts event memory: A cross-linguistic comparison. *Language and Cognition, 14*(3), 362-384. [[link to Open Access paper](https://doi.org/10.1017/langcog.2022.3)]
