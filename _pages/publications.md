@@ -6,7 +6,7 @@ author_profile: true
 ---
 **ter Bekke, M.**, Levinson, S.C., van Otterdijk, L., Kühn, M., & Holler, J. (2024).  Visual bodily signals and conversational context benefit the anticipation of turn ends. *Cognition, 248*, 105806. [[link to Open Access paper](https://doi.org/10.1016/j.cognition.2024.105806)]
 
-**ter Bekke, M.**, Drijvers, L., & Holler, J. (2024). Gestures speed up responses to questions. *Language, Cognition and Neuroscience*. [[link to Open Access paper](https://doi.org/10.1080/23273798.2024.2314021)] 
+**ter Bekke, M.**, Drijvers, L., & Holler, J. (2024). Gestures speed up responses to questions. *Language, Cognition and Neuroscience, 39*(4), 423-430. [[link to Open Access paper](https://doi.org/10.1080/23273798.2024.2314021)] 
 
 **ter Bekke, M.**, Drijvers, L., & Holler, J. (2024). Hand gestures have predictive potential during conversation: An investigation of the timing of gestures in relation to speech. *Cognitive Science, 48*(1), e13407. [[link to Open Access paper](https://doi.org/10.1111/cogs.13407)] 
 
