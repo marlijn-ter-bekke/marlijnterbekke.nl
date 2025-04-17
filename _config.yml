@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Marlijn ter Bekke"
-  avatar           : "profile.jpg"
-  bio              : "Postdoc at the Donders Institute"
-  location         : 
-  employer         : 
+  avatar           : "profile_defense.jpg"
+  bio              : "language/neuroscientist (she/her) interested in multimodal communication during face-to-face conversation"
+  location         : "Nijmegen, the Netherlands"
+  employer         : "postdoc @ the Donders Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gPx1foMAAAAJ&hl=nl&oi=ao"
-  email            :
+  email            : "marlijn [dot] terbekke [at] donders [dot] ru [dot] nl"
   researchgate     : "https://www.researchgate.net/profile/Marlijn-Ter-Bekke"
   uri              :
   bitbucket        :
