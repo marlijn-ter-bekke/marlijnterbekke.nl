@@ -181,6 +181,10 @@ collections:
   media:
     output: true
     permalink: /:collection/:path/
+  blogs:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
