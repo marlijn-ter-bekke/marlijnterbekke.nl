@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marlijn ter Bekke"
 title_separator          : "-"
 name                     : &name "dr. Marlijn ter Bekke"
-description              : &description "language/neuroscientist (she/her) interested in multimodal communication during face-to-face conversation, currently postdoc @ the Donders Institute"
+description              : &description "Language/neuroscientist (she/her) interested in multimodal communication during face-to-face conversation, currently postdoc @ the Donders Institute"
 url                      : https://marlijn-ter-bekke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marlijn-ter-bekke/marlijn-ter-bekke.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marlijn ter Bekke"
   avatar           : "profile_defense.jpg"
-  bio              : "language/neuroscientist (she/her) interested in multimodal communication during face-to-face conversation"
-  location         : "Nijmegen, the Netherlands"
-  employer         : "postdoc @ the Donders Institute"
+  bio              : "Language/neuroscientist (she/her) interested in multimodal communication during face-to-face conversation"
+  location         : 
+  employer         : "Postdoc @ the Donders Institute, Radboud University, Nijmegen, the Netherlands"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gPx1foMAAAAJ&hl=nl&oi=ao"
   email            : "marlijn [dot] terbekke [at] donders [dot] ru [dot] nl"
