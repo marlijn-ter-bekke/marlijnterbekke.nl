@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marlijn ter Bekke"
 title_separator          : "-"
 name                     : &name "Marlijn ter Bekke"
-description              : &description "PhD student at the Donders Institute"
+description              : &description "Postdoc at the Donders Institute"
 url                      : https://marlijn-ter-bekke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marlijn-ter-bekke/marlijn-ter-bekke.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marlijn ter Bekke"
   avatar           : "profile.jpg"
-  bio              : "PhD student at the Donders Centre for Cognition & Max Planck Institute for Psycholinguistics"
+  bio              : "Postdoc at the Donders Institute"
   location         : 
   employer         : 
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MarlijnterBekke"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
