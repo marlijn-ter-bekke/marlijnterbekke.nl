@@ -20,3 +20,4 @@ About ["Co-speech hand gestures are used to predict upcoming meaning"](https://d
 - [news article](https://neurosciencenews.com/gesture-speech-prediction-28684/)
 - [news article](https://phys.org/news/2025-04-gestures-upcoming-words-virtual-avatar.html)
 - [news article](https://www.miragenews.com/gestures-help-listeners-predict-words-1447981/)
+- [news article](https://www.deutschlandfunknova.de/nachrichten/gespraeche-gesten-spielen-wohl-eine-wichtige-rolle-fuer-das-verstehen)
