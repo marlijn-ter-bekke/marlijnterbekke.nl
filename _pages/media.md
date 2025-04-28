@@ -10,7 +10,7 @@ Podcasts:
 - In this Because Language [podcast episode](https://becauselanguage.com/95-why-the-far-right-demagogues-language/) my research (Cognitive Science paper from 2024) is discussed in English (22:00-28:00).
 
 About my [PhD thesis](https://hdl.handle.net/2066/316866):
-- In this [blog post](https://www.mpi-talkling.mpi.nl/?p=2145&lang=en) I wrote, you can read about my PhD in English, Dutch or German 
+- In this [blog post](https://www.mpi-talkling.mpi.nl/?p=2145&lang=en) I wrote, you can read about my PhD in English, Dutch or German. 
 - Radboud University published this [news article](https://www.ru.nl/en/research/research-news/typing-in-mid-air-or-pretending-to-drink-how-using-your-hands-to-communicate-can-help-you-understand-others) about my PhD right before my defense. The news was picked up by [ggz.nl](https://ggz.nl/onderzoek-hoe-handgebaren-kunnen-helpen-om-iemand-te-begrijpen/) and [phys.org](https://phys.org/news/2025-03-mid-air-communicate.html). 
 
 About ["Co-speech hand gestures are used to predict upcoming meaning"](https://doi.org/10.1177/09567976251331041) (2025), Psychological Science:
