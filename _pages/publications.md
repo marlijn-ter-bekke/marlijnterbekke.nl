@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2025
-**ter Bekke, M.**, Drijvers, L., & Holler, J. (2025). Co-speech hand gestures are used to predict upcoming meaning. *Psychological Science*. [[link to Open Access paper](https://doi.org/10.1177/09567976251331041)]
+**ter Bekke, M.**, Drijvers, L., & Holler, J. (2025). Co-speech hand gestures are used to predict upcoming meaning. *Psychological Science, 36*(4), 237-248. [[link to Open Access paper](https://doi.org/10.1177/09567976251331041)]
 
 **ter Bekke, M.** (2025). On how gestures facilitate prediction and fast responding during conversation. *PhD thesis*. [[link to Open Access file](https://hdl.handle.net/2066/316866)]
 
