@@ -11,9 +11,9 @@ title                    : "Marlijn ter Bekke"
 title_separator          : "-"
 name                     : &name "dr. Marlijn ter Bekke"
 description              : &description "Language/neuroscientist (she/her) interested in multimodal communication during face-to-face conversation, currently postdoc @ the Donders Institute"
-url                      : https://marlijn-ter-bekke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marlijnterbekke.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "marlijn-ter-bekke/marlijn-ter-bekke.github.io"
+repository               : "marlijn-ter-bekke/marlijnterbekke.nl"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
